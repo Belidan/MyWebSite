@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Forty"
+title = "Dimitrij-Marian Holm"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -45,16 +45,24 @@ googleAnalytics = ""
       url = "#"
 
     [[params.navigation.links]]
-	  name = "CV"
-      url = "/cv/cv"
+	  name = "Education"
+          url = "/education"
 
     [[params.navigation.links]]
       name = "Projects"
       url = "projects"
 
-    #[[params.navigation.links]]
-    #  name = "Projects"
-    #  url = "elements.html"
+    [[params.navigation.links]]
+      name = "Certificates"
+      url = "/certificates"
+
+    [[params.navigation.links]]
+      name = "Hobbies"
+      url = "hobbies"
+
+    [[params.navigation.links]]
+      name = "dadada"
+      url = "hobbies"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -78,8 +86,8 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Welcome to my Website"
-    subtitle = "Here you can find everything remarkable about me, like CV or projects"
+    title = "Thinker, Tinker, Linker"
+    subtitle = "Just three words to describe myself. Of course every human needs more words to be described. If you want to know more about me, feel free to explore my website"
     #buttonText = "Show me"
 
 
@@ -87,24 +95,38 @@ googleAnalytics = ""
   [params.tiles]
     enable = true
     # Display your showcases here.
-    
+  
     [[params.tiles.showcase]]
-      title = "CV"
-      #subtitle = ""
-      image = "pic01.jpg"
-      url = "cv"
+      title = "About me"
+      subtitle = "what am i, what defines me and why am i as i am"
+      image = "cv.jpg"
+      url = "about"
+  
+    [[params.tiles.showcase]]
+      title = "Education"
+      subtitle = "whole education, from apprenticeship to current state"
+      image = "cv.jpg"
+      url = "education"
 	  
-	  [[params.tiles.showcase]]
-      title = "dummy"
-      #subtitle = ""
+    [[params.tiles.showcase]]
+      title = "Hobbies"
+      subtitle = "little bit more about myself"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "hobbies/coolcode"
+
+    [[params.tiles.showcase]]
+      title = "Certificates"
+      subtitle = "all additional education and programmes"
+      image = "pic03.jpg"
+      url = "/certificates"
 
     [[params.tiles.showcase]]
       title = "Projects"
-      subtitle = "TODO"
+      subtitle = "private, research, intership projects and theses"
       image = "pic02.jpg"
       url = "/projects/"
+
+
 
     # You can make more showcases by copy and pasting the code above
 
@@ -117,7 +139,7 @@ googleAnalytics = ""
 
   # Section Type Two
   [params.two]
-    enable = true
+    enable = false
     title = "Massa libero"
     subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
     Mauris aliquet magna magna sed nunc rhoncus pharetra. 
