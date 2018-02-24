@@ -1,5 +1,5 @@
 ---
-title: "SLAM in dynamic Environments"
+title: "Research Project: SLAM in dynamic Environments"
 description: ""
 slug: "slam"
 image: "/projects/slam.png"

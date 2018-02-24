@@ -1,5 +1,5 @@
 ---
-title: "Self-learning Pipeline for 3D objects"
+title: "Research Object: Self-learning Pipeline for 3D objects"
 description: ""
 slug: "slp"
 image: "/projects/slp.png"
@@ -7,7 +7,7 @@ keywords: ""
 categories: 
     - ""
     - ""
-date: 2017-10-31T21:28:43-05:00
+date: 2018-02-01T21:28:43-05:00
 draft: false
 pdf: slp.pdf
 pdfName: self learning pipeline
