@@ -2,7 +2,6 @@
 title: "Research Project: SLAM in dynamic Environments"
 description: ""
 slug: "slam"
-image: "/projects/slam.png"
 keywords: ""
 categories: 
     - ""

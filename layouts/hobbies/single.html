@@ -1,41 +1,50 @@
-            {{- partial "header.html" . }}
-            <div class="hmdl-page mdl-grid">
-                <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
-                    <div class="hmdl-page-banner mdl-card__media mdl-color-text--grey-50" style="{{with .Params.cardheaderimage}}background-image: url('{{.}}');{{end}} {{with .Params.cardbackground}}background-color:{{.}};{{end}}">
-                        <h3 {{ with .Params.cardtitlecolor }}style="color:{{.}};"{{end}}>{{ title .Title }}</h3>
-                    </div>
-                    <div class="hmdl-page-meta mdl-color-text--grey-700 mdl-card__supporting-text">
-                        {{- with .Params.author.image }}
-                        <div class="minilogo" style="background-image: url('{{.}}');"></div>
-                        {{- end }}
-                        <div>
-                            <strong>{{ .Params.author.name }}</strong>
-                            <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+<!DOCTYPE HTML>
+<html>
+
+    {{ partial "header.html" . }}
+    <body>
+
+    {{ "<!-- Wrapper -->" | safeHTML }}
+        <div id="wrapper">
+
+            {{ partial "nav.html" . }}
+
+        {{ "<!-- Main -->" | safeHTML }}
+            <div id="main" class="alt">
+
+                <!-- One -->
+                    <section id="one">
+                        <div class="inner">
+                            <header class="major">
+                                <h1>{{ .Title}}</h1>
+                            </header>
+                            {{ if .Params.image }}
+                                <span class="image main"><img src="{{ .Site.Params.baseURL }}/img/{{ .Params.image }}"alt=""/></span>
+                            {{ end }}			
+                            {{ if .Params.image2 }}
+                                <span class="image main"><img src="{{ .Site.Params.baseURL }}/img/{{ .Params.image2 }}"alt=""/></span>
+                            {{ end }}	
+                            {{ if .Params.image3 }}
+                                <span class="image main"><img src="{{ .Site.Params.baseURL }}/img/{{ .Params.image3 }}"alt=""/></span>
+                            {{ end }}			
+                            {{ if .Params.image4 }}
+                                <span class="image main"><img src="{{ .Site.Params.baseURL }}/img/{{ .Params.image4 }}"alt=""/></span>
+                            {{ end }}	
+                            {{ if .Params.image5 }}
+                                <span class="image main"><img src="{{ .Site.Params.baseURL }}/img/{{ .Params.image5 }}"alt=""/></span>
+                            {{ end }}								
                         </div>
-                        <div class="section-spacer"></div>
-                        <div><span>
-                            {{- with .Params.repo }}
-                            <a id="repolink" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" href="{{.}}"><i class="material-icons icon ion-social-github"></i><span class="visuallyhidden">Github</span></a>
-                            <span for="repolink" class="mdl-tooltip">Code Repository</span>
-                            {{- end }}
-                            {{- with .Params.web }}
-                            <a id="sitelink" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" href="{{.}}"><i class="material-icons icon ion-link"></i><span class="visuallyhidden">Website</span></a>
-                            <span for="sitelink" class="mdl-tooltip">Website Link</span>
-                            {{- end }}
-                        </span></div>
-                    </div>
-                        
-                    <div class="hmdl-page-content mdl-color-text--grey-700 mdl-card__supporting-text">
-                        {{ .Content }}
-                    </div>
-                    
-                    <div class="hmdl-page-comments mdl-color-text--primary-contrast mdl-card__supporting-text comments"> 
-                        <a {{with .Params.author.website }}href="{{.}}"{{end}}>{{ .Params.author.name }}</a>
-                        {{- with .Params.author.description }}
-                        <p>{{.}}</p>
-                        {{- end }}
-                    </div>  
-                </div>
-                {{- partial "prevnextbtns.html" . }} 
+                    </section>
             </div>
-            {{- partial "footer.html" . }}
+            
+        {{ "<!-- Footer -->" | safeHTML}}
+            {{ if .Site.Params.footer.enable }}
+                {{ partial "footer.html" . }}
+            {{ end }}
+        </div>
+
+    {{ "<!-- Scripts -->" | safeHTML}}
+        {{ partial "js.html" . }}
+
+    </body>
+</html>

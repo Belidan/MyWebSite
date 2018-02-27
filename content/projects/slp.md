@@ -1,8 +1,8 @@
 ---
-title: "Research Object: Self-learning Pipeline for 3D objects"
+title: "Research Project: Self-learning Pipeline for 3D objects"
 description: ""
 slug: "slp"
-image: "/projects/slp.png"
+#image: "/projects/slp.png"
 keywords: ""
 categories: 
     - ""

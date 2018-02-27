@@ -20,7 +20,7 @@ googleAnalytics = ""
   description = "Your description"
 
   # Link custom assets relative to /static
-  custom_css = []
+  custom_css = ["/static/css","/static/sass","/static/scss","/static/js"] 
   custom_js  = []
   favicon    = "favicon.ico"
 
@@ -43,10 +43,18 @@ googleAnalytics = ""
     [[params.navigation.links]]
       name = "Main Page"
       url = "#"
+	  
+	      [[params.navigation.links]]
+	  name = "About me"
+          url = "/about"
 
     [[params.navigation.links]]
 	  name = "Education"
           url = "/education"
+		  
+	[[params.navigation.links]]
+	  name = "Working Experience"
+          url = "/workingexperience"
 
     [[params.navigation.links]]
       name = "Projects"
@@ -58,10 +66,6 @@ googleAnalytics = ""
 
     [[params.navigation.links]]
       name = "Hobbies"
-      url = "hobbies"
-
-    [[params.navigation.links]]
-      name = "dadada"
       url = "hobbies"
 
     # Add custom links here by uncommenting code below. To remove links just delete
@@ -105,14 +109,20 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Education"
       subtitle = "whole education, from apprenticeship to current state"
-      image = "cv.jpg"
+      image = "education.jpg"
       url = "education"
+	  
+	  [[params.tiles.showcase]]
+      title = "Working Experience"
+      subtitle = "Industrial Experience"
+      image = "education.jpg"
+      url = "workingexperience"
 	  
     [[params.tiles.showcase]]
       title = "Hobbies"
       subtitle = "little bit more about myself"
       image = "pic03.jpg"
-      url = "hobbies/coolcode"
+      url = "hobbies/"
 
     [[params.tiles.showcase]]
       title = "Certificates"
@@ -167,11 +177,10 @@ googleAnalytics = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    # formEmail = "example@domain.com"
+     formEmail = "dimi1990@gmx.de"
 
-    # Contact Section
-    # You can add multiple emails, phone numbers, or addresses
-    # by copying the corresponding map with frontmatter code.
+	#Contact Section
+
     [[params.contact.email]]
     title = "Email"
     email = "example@domain.com"
