@@ -2082,7 +2082,7 @@
 			background: #ffffff;
 			border-color: #9bf1ff;
 			content: '\f00c';
-			color: #242943;
+			color: #0d0d0d; 
 		}
 
 		input[type="checkbox"]:focus + label:before,

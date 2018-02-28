@@ -67,6 +67,10 @@ googleAnalytics = ""
     [[params.navigation.links]]
       name = "Hobbies"
       url = "hobbies"
+	  
+	 [[params.navigation.links]]
+      name = "Skills"
+      url = "skills"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -118,10 +122,16 @@ googleAnalytics = ""
       image = "education.jpg"
       url = "workingexperience"
 	  
+	  [[params.tiles.showcase]]
+      title = "Skills"
+      subtitle = "my gained Skills, like program language, ..."
+      image = "skills.JPG"
+      url = "skills"
+	  
     [[params.tiles.showcase]]
       title = "Hobbies"
       subtitle = "little bit more about myself"
-      image = "pic03.jpg"
+      image = "hobbies.JPG"
       url = "hobbies/"
 
     [[params.tiles.showcase]]
