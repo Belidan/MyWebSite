@@ -13,7 +13,9 @@ pdfName: slam in dynamic environments
 language: german
 downloadIcon: downloads/pdfDownload.ico
 ---
+As the field of SLAM is 
 
 <div style="text-indent:20px;"><b>Trained Skills</b></div>
 <div style="text-indent:20px;">- Programm language C++</div>
 <div style="text-indent:20px;">- OpenCV for image processing</div>
+<div style="text-indent:20px;">- Robot Operating System (ROS)</div>
