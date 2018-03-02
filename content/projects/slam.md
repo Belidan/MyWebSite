@@ -14,4 +14,6 @@ language: german
 downloadIcon: downloads/pdfDownload.ico
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+<div style="text-indent:20px;"><b>Trained Skills</b></div>
+<div style="text-indent:20px;">- Programm language C++</div>
+<div style="text-indent:20px;">- OpenCV for image processing</div>

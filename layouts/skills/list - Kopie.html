@@ -1,0 +1,148 @@
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root{--color :linear-gradient(to right, #242943, #000000);}
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #242943;
+}
+
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+
+.assembler {width: 95%; background: var(--color);}
+.c {width: 100%; background: var(--color);}
+.cpp {width: 80%; background: var(--color);}
+.cs {width: 80%; background: var(--color);}
+.python {width: 15%; background: var(--color);}
+.plc {width: 75%; background: var(--color);}
+.matlab {width: 60%; background: var(--color);}
+.labview {width: 25%; background: var(--color);}
+.opencv {width: 85%; background: var(--color);}
+.pcl {width: 80%; background: var(--color);}
+.ros {width: 90%; background: var(--color);}
+.linux {width: 75%; background: var(--color);}
+.latex {width: 85%; background: var(--color);}
+
+
+</style>
+</head>
+
+
+{{ "<!-- Header -->" | safeHTML }}
+    {{ partial "header.html" . }}
+
+    <body>
+    {{ "<!-- Wrapper -->" | safeHTML }}
+        <div id="wrapper">
+
+        {{ partial "nav.html" . }}
+
+        {{ "<!-- Main -->" | safeHTML }}
+
+        {{ range .Pages }}
+            <div id="main" class="alt">
+                <!-- One -->
+                        <div class="inner">
+							{{if .Params.Title}}
+								<header class="major">
+								<h1>{{ .Title}}</h1>
+								</header>
+							{{end}}
+							{{if .Params.Description}}
+								{{ .Description }}
+							{{end}}		
+							{{if .Params.Name}}
+								{{ .Description }}		
+							{{end}}		
+							
+							<p><h3>Assembler</h3></p>
+							<div class="container">
+							<div class="skills assembler">95%</div>
+							</div>
+							
+							<p><h3>C</h3></p>
+							<div class="container">
+							<div class="skills c">100%</div>
+							</div>
+							
+							<p><h3>C++</h3></p>
+							<div class="container">
+							<div class="skills cpp">80%</div>
+							</div>
+							
+							<p><h3>C#</h3></p>
+							<div class="container">
+							<div class="skills cs">80%</div>
+							</div>
+							
+							<p><h3>Python</h3></p>
+							<div class="container">
+							<div class="skills python">15%</div>
+							</div>
+														
+							<p><h3>PLC Control</h3></p>
+							<div class="container">
+							<div class="skills plc">75%</div>
+							</div>
+							
+							<p><h3>Matlab/ Simulink</h3></p>
+							<div class="container">
+							<div class="skills matlab">60%</div>
+							</div>
+							
+							<p><h3>LabView</h3></p>
+							<div class="container">
+							<div class="skills labview">25%</div>
+							</div>
+						
+							<p><h3>OpenCV</h3></p>
+							<div class="container">
+							<div class="skills opencv">85%</div>
+							</div>
+							
+							<p><h3>Point Cloud Library</h3></p>
+							<div class="container">
+							<div class="skills pcl">80%</div>
+							</div>
+							
+							<p><h3>Robot Operating System</h3></p>
+							<div class="container">
+							<div class="skills ros">90%</div>
+							</div>
+							
+							<p><h3>Linux</h3></p>
+							<div class="container">
+							<div class="skills linux">75%</div>
+							</div>
+
+							<p><h3>Latex</h3></p>
+							<div class="container">
+							<div class="skills latex">85%</div>
+							</div>
+							
+                        </div>
+            </div>
+        {{ end }}
+        </section>
+
+            
+        {{ "<!-- Footer -->" | safeHTML}}
+			{{ if .Site.Params.footer.enable }}
+				{{ partial "footer.html" . }}
+            {{ end }}
+        
+        </div>
+    {{ "<!-- Scripts -->" | safeHTML}}
+        {{ partial "js.html" . }}
+        
+    </body>
+</html>

@@ -1,5 +1,5 @@
 ---
-title: "Student project: Puzzle Solver"
+title: "Student Project: Puzzle Solver"
 description: ""
 slug: "puzzlesolver"
 #image: "/projects/bachelorthesis.jpg"

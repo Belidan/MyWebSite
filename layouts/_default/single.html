@@ -23,7 +23,10 @@
                                 <span class="image main"><img src="{{ .Site.Params.baseURL }}/img/{{ .Params.image }}"alt=""/></span>
 								{{end}}
                             {{ end }}
-                            {{ .Content }}
+
+							<div style="text-align: justify">{{.Content}}</div>
+
+
 							{{ if .Params.pdf}}
 							<a href="{{ .Site.Params.baseURL }}/downloads/{{ .Params.pdf }}" download={{.Params.pdfName}}>
 							<img border="2" src="{{ .Site.Params.baseURL }}/{{ .Params.downloadIcon }}" width="80" height="80">
@@ -34,7 +37,6 @@
 							{{.Site.Params.skills.enable}}
 							{{.Params.Tiles.Showcase.title}}
 							{{.Params.skillname}}
-							la
                         </div>
                     </section>
             </div>
