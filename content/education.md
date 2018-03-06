@@ -27,8 +27,6 @@ draft: false
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; - Alpine ecology</div>
   <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; - Aquatic Ecosystems</div>
 
-
-
  <div style="text-indent:20px;">03.2016 - 09.2016 &emsp;&emsp; &nbsp;M.Sc Computer Science</div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Specializing in Computer Graphics and Image Processing</div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Aborted, grade at leaving: 1.8</div>
@@ -53,9 +51,10 @@ draft: false
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Final grade: 2.8</div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; @  Munich, Germany</div>
 
- <div style="text-indent:20px;">08.2007 - 02.2011  &emsp;&emsp; &nbsp;Apprenticeship</div>
+ <div style="text-indent:20px;">08.2007 - 04.2011  &emsp;&emsp; &nbsp;Apprenticeship</div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Electronics technician for devices and systems</div>
- <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Final grade: 1.4</div>
+ <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Final grade: score of 92 from 100</div>
+  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Completed with honor (best apprentice)  </div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; @ Siemens AG, Munich, Germany</div>
 
 
