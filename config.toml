@@ -44,9 +44,9 @@ googleAnalytics = ""
       name = "Main Page"
       url = "#"
 	  
-	      [[params.navigation.links]]
-	  name = "About me"
-          url = "/about"
+	#      [[params.navigation.links]]
+	#  name = "About me"
+    #      url = "/about"
 
     [[params.navigation.links]]
 	  name = "Education"
@@ -104,11 +104,11 @@ googleAnalytics = ""
     enable = true
     # Display your showcases here.
   
-    [[params.tiles.showcase]]
-      title = "About me"
-      subtitle = "what am i, what defines me and why am i as i am"
-      image = "cv.jpg"
-      url = "about"
+    #[[params.tiles.showcase]]
+    #  title = "About me"
+    #  subtitle = "what am i, what defines me and why am i as i am"
+    #  image = "cv.jpg"
+    #  url = "about"
   
     [[params.tiles.showcase]]
       title = "Education"
