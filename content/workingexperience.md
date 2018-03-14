@@ -25,7 +25,7 @@ Mentoring of a student project. Providing and maintenance of the necessary infra
 Developing of a graphic user interface in .Net (C#) WPF. The focus was to programm a real time 3D visualization of huge laser scan data in 3D.
  In addition several approaches were developed to texture the 3D visualization with partial pictures of the surface.
 
- <div style="text-indent:20px;">08.2014 - 01.2015 &emsp;&emsp; &nbsp;Intership,0 h per week</div>
+ <div style="text-indent:20px;">08.2014 - 01.2015 &emsp;&emsp; &nbsp;Intership, 40 h per week</div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; @ Quintenz GmbH, Munich, Germany</div>
 Designing and developing of a GUI in C++/CLI for steering and monitoring of electrical engine tech benches.
  It includes developing of the communication interface, control the communication between test bench and PC as well as graphical outputs of characterstic curves.
