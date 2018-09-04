@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitrij-Marian Holm</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Dimitrij-Marian Holm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2018 21:28:43 -0500</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Master Thesis: A Robot System for Object Reconstruction</title>
+      <link>//localhost:1313/projects/masterthesis/</link>
+      <pubDate>Thu, 01 Feb 2018 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/projects/masterthesis/</guid>
+      <description>This master thesis exmpands the related work of my last project (Self learning Pipeline) with the ability for grasp pose detection and manipulation of the environment. Object recognition is one of the major topics in developing intelligent autonomous systems. But to develop a fully autonomous system which is able to gain information about the environment including interaction within, a lot of additional tasks are required such as processing of the sensor inputs leading to a representation of different objects which is needed for object recognition.</description>
+    </item>
+    
+    <item>
+      <title>Research Project: Self-learning Pipeline for 3D objects</title>
+      <link>//localhost:1313/projects/slp/</link>
+      <pubDate>Thu, 01 Feb 2018 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/projects/slp/</guid>
+      <description>The focus of this research project was object recognition in autonomous systems. After study the research and adjacent fields of object recognition my focus was to develop an automated process for 3D object generation with the goal to create to a curious robot. The resulst is the Self Learning Pipeline (SLP). The pipeline contains the steps from extracing possible objects parts from a raw point cloud as input, select and track one object, get different views of the tracked object, registrate these object parts to a whole point cloud representing an object and finally the synthesis to a full 3D mesh which can be used for object recogintion or every other task with the need of 3D models.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>//localhost:1313/skills/skills/</link>
+      <pubDate>Wed, 31 Jan 2018 22:42:51 -0500</pubDate>
+      
+      <guid>//localhost:1313/skills/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>TO DO</description>
+    </item>
+    
+    <item>
+      <title>Certificates</title>
+      <link>//localhost:1313/certificates/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>//localhost:1313/certificates/</guid>
+      <description>06.2016 &amp;emsp; &amp;emsp; &amp;emsp; Kalman filter technologies Content - Stochastic basics - Modelling of linear systems - Kamlan bucy filter - Kalman filter in control technology - Kalman filter in image processing - Use of kalman filter in industrial products - Kalman filter in automotive  - Kalman filter in navigation </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>//localhost:1313/education/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>//localhost:1313/education/</guid>
+      <description>since 10.2016 &amp;nbsp; &amp;emsp; &amp;emsp; &amp;emsp; M.Sc. Applied Research in Engineering Science &amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp; &amp;ensp; Research field in robotics &amp; autonomous systems &amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp; &amp;ensp; Current grade: 1.4 &amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp; &amp;ensp; @ University of Applied Science Munich, Germany &amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp; &amp;ensp; Specialization courses completed: &amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp; &amp;emsp; - Deep learning/ artificial neural networks &amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp; &amp;emsp; - Finite element method &amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp; &amp;emsp; - Autonomous systems and mobile robots 08.</description>
+    </item>
+    
+    <item>
+      <title>Working Experiece</title>
+      <link>//localhost:1313/workingexperience/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>//localhost:1313/workingexperience/</guid>
+      <description>03.2017 - 05.208 &amp;emsp;&amp;emsp; &amp;emsp; &amp;nbsp;Working student, 8 h per week &amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp; &amp;ensp; @ Rohde &amp;amp; Schwarz GmbH &amp;amp; Co. KG, Munich, Germany Employed as a software engineer for .Net (C#) WPF GUI developmen based on the Model-View-Viewmodel (MVVM) pattern. Use of Scrum and Test-driven development.
+04.2016 - 09.2016 &amp;emsp;&amp;emsp; &amp;nbsp;Laboratory engineer, 16 h per week &amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp;&amp;emsp; &amp;emsp; &amp;ensp; @ University of Applied Science Munich, Germany Mentoring of a student project.</description>
+    </item>
+    
+    <item>
+      <title>curriculum vitae</title>
+      <link>//localhost:1313/blogs/cv/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>//localhost:1313/blogs/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempus</title>
+      <link>//localhost:1313/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>//localhost:1313/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magna</title>
+      <link>//localhost:1313/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>//localhost:1313/blogs/magna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>//localhost:1313/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/blogs/ipsum/</guid>
+      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+    </item>
+    
+    <item>
+      <title>Research Project: SLAM in dynamic Environments</title>
+      <link>//localhost:1313/projects/slam/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/projects/slam/</guid>
+      <description>As simultaneous location and mapping (SLAM) is one of the key features for autonomous systems to navigate within the environment, at lot of progress have been accieved in the last years. If the environment is not changing the accuracy for SLAM is quite good, as the map is created once it should not be updated later. But the world is not static, it is changing over time. My research project accieved an approach to challenge with a changing world.</description>
+    </item>
+    
+    <item>
+      <title>Bachelor Thesis: Concept of visualization of 3D-Data</title>
+      <link>//localhost:1313/projects/bachelorthesis/</link>
+      <pubDate>Sat, 01 Feb 2014 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/projects/bachelorthesis/</guid>
+      <description>In the industrial sector of composite materials there are no measurement systems which allow combining and visualizing a set of 3D scan data with 2D pictures. The aim of this thesis is to develop software that can fill this gap. The program allows the user to texture 3D models with the fitting set of picture informations. Windows WPF was used as a framework. It provides the possibility of model generating. As a part task a human machine interface for interacting is under development.</description>
+    </item>
+    
+    <item>
+      <title>Intership: Development of a GUI for engine test benches</title>
+      <link>//localhost:1313/projects/quintenz/</link>
+      <pubDate>Sat, 01 Feb 2014 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/projects/quintenz/</guid>
+      <description>For this intership i developed a graphical user interface for steering electrical engine test benches and monitor the behaviour of the engine. This includes the interface between Desktop and the test bench.
+Trained Skills - Programm language C++ - Development with Microsoft CLI/C++ - GUI-Design with consideration of medical standards 
+Due to its protection level a download of the document is not available.</description>
+    </item>
+    
+    <item>
+      <title>Student Project: Puzzle Solver</title>
+      <link>//localhost:1313/projects/puzzlesolver/</link>
+      <pubDate>Sat, 01 Feb 2014 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/projects/puzzlesolver/</guid>
+      <description>For this student project we developed a puzzle solver. The input were some pictures with several, different pieces of the puzzle. The single pieces were extracted from the picture. With information about the geometric and color characterstics of the endges the coherent pieces were calculated. With the calculated result the output of the puzzle solver was a 3D animation in which the random placed single puzzle pieces flew to their destination.</description>
+    </item>
+    
+    <item>
+      <title>Exchange trading</title>
+      <link>//localhost:1313/hobbies/stocktrading/</link>
+      <pubDate>Tue, 01 Feb 2000 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/hobbies/stocktrading/</guid>
+      <description>Since 2015 one of my hobbies is the exchange trade as a day trader. It was my entrance to get a clou how the economy in the world works and the value of money leading to a fundamental financial education. Furthermore it increases my skills of understanding complex processes and connections to each other as well as estimating/analysing consequences based on the underlying impacts.</description>
+    </item>
+    
+    <item>
+      <title>Hiking</title>
+      <link>//localhost:1313/hobbies/acousticcamera/</link>
+      <pubDate>Tue, 01 Feb 2000 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/hobbies/acousticcamera/</guid>
+      <description>Since i can remember im into hiking. I love the challenge to reach a destination which might be far away. It is the perfect way to calm down and to free your mind. With every step you can feel how the problems of your everyday life drops off. Now the mind is released, the perfect moment to ruminate about the uncommon. Hiking is my way to meditate about the world and find my inner peace.</description>
+    </item>
+    
+    <item>
+      <title>Sailing</title>
+      <link>//localhost:1313/hobbies/sailing/</link>
+      <pubDate>Tue, 01 Feb 2000 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/hobbies/sailing/</guid>
+      <description>Salt in the air, wind in the hair, sailing is freedom. Possible to reach destinations impossible reaching by feet. Slide over the waves and feel the force of the elements. It is truely an andventure.
+How is it to stay arround one week on a tiny boat with nine other persons? Social and team skills are more than necessary for this. Because disagreements are not preventable. And of course beside this a ship only works with a crew act as an unit.</description>
+    </item>
+    
+    <item>
+      <title>Snowboarding</title>
+      <link>//localhost:1313/hobbies/snowboard/</link>
+      <pubDate>Tue, 01 Feb 2000 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/hobbies/snowboard/</guid>
+      <description>The top of the track, heart is beating. I put on my boots, ready for takeoff. Riding down the track, the body full of adrenalin. Full control of the body and intense concentration is the key for this sport, because at my boarding speed every moment of unwariness might be my last. It is a tightrope, all the time. But totally worth it. Isn&amp;rsquo;t it amazing when the ice crystals twinkling in the sunlight while shooting along the track?</description>
+    </item>
+    
+    <item>
+      <title>Student Project: Acoustic Camera</title>
+      <link>//localhost:1313/projects/acousticcamera/</link>
+      <pubDate>Tue, 01 Feb 2000 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/projects/acousticcamera/</guid>
+      <description>As an student project we developed an acoustic camera. A matrix made out of microphones the acoustic signals were cought. The runtime of the sonic wave between the microphones was used to estimate the direction of the sound source. It was calculated on an FPGA. Via an USP-Port the results were sent to the PC and shown on an refreshing image. My part was to designing the protocoll between PC and FPGA, develop the interface for the visual output program as well as implementing the necessary communication software (steer/control data flow FPGA&amp;lt;-&amp;gt;PC, transmitting processed data to visual output).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hobbies on Dimitrij-Marian Holm</title>
+    <link>//localhost:1313/hobbies/</link>
+    <description>Recent content in Hobbies on Dimitrij-Marian Holm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Feb 2000 21:28:43 -0500</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/hobbies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exchange trading</title>
+      <link>//localhost:1313/hobbies/stocktrading/</link>
+      <pubDate>Tue, 01 Feb 2000 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/hobbies/stocktrading/</guid>
+      <description>Since 2015 one of my hobbies is the exchange trade as a day trader. It was my entrance to get a clou how the economy in the world works and the value of money leading to a fundamental financial education. Furthermore it increases my skills of understanding complex processes and connections to each other as well as estimating/analysing consequences based on the underlying impacts.</description>
+    </item>
+    
+    <item>
+      <title>Hiking</title>
+      <link>//localhost:1313/hobbies/acousticcamera/</link>
+      <pubDate>Tue, 01 Feb 2000 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/hobbies/acousticcamera/</guid>
+      <description>Since i can remember im into hiking. I love the challenge to reach a destination which might be far away. It is the perfect way to calm down and to free your mind. With every step you can feel how the problems of your everyday life drops off. Now the mind is released, the perfect moment to ruminate about the uncommon. Hiking is my way to meditate about the world and find my inner peace.</description>
+    </item>
+    
+    <item>
+      <title>Sailing</title>
+      <link>//localhost:1313/hobbies/sailing/</link>
+      <pubDate>Tue, 01 Feb 2000 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/hobbies/sailing/</guid>
+      <description>Salt in the air, wind in the hair, sailing is freedom. Possible to reach destinations impossible reaching by feet. Slide over the waves and feel the force of the elements. It is truely an andventure.
+How is it to stay arround one week on a tiny boat with nine other persons? Social and team skills are more than necessary for this. Because disagreements are not preventable. And of course beside this a ship only works with a crew act as an unit.</description>
+    </item>
+    
+    <item>
+      <title>Snowboarding</title>
+      <link>//localhost:1313/hobbies/snowboard/</link>
+      <pubDate>Tue, 01 Feb 2000 21:28:43 -0500</pubDate>
+      
+      <guid>//localhost:1313/hobbies/snowboard/</guid>
+      <description>The top of the track, heart is beating. I put on my boots, ready for takeoff. Riding down the track, the body full of adrenalin. Full control of the body and intense concentration is the key for this sport, because at my boarding speed every moment of unwariness might be my last. It is a tightrope, all the time. But totally worth it. Isn&amp;rsquo;t it amazing when the ice crystals twinkling in the sunlight while shooting along the track?</description>
+    </item>
+    
+  </channel>
+</rss>

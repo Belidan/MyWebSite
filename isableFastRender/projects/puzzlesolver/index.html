@@ -1,0 +1,157 @@
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description" content="Your description">
+	<meta name="author" content="Dimitrij-Marian Holm">
+	<meta name="generator" content="Hugo 0.36" />
+	<title>Student Project: Puzzle Solver &middot; Dimitrij-Marian Holm</title>
+	<!-- Stylesheets -->
+	
+	<link rel="stylesheet" href="//localhost:1313/css/main.css"/>
+	
+	
+
+	
+		<link rel="stylesheet" href="//localhost:1313/static/css">
+	
+		<link rel="stylesheet" href="//localhost:1313/static/sass">
+	
+		<link rel="stylesheet" href="//localhost:1313/static/scss">
+	
+		<link rel="stylesheet" href="//localhost:1313/static/js">
+	
+
+	<!-- Custom Fonts -->
+	<link href="//localhost:1313/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	
+	<link rel="shortcut icon" type="image/x-icon" href="//localhost:1313/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="//localhost:1313/favicon.ico">
+	
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="js/ie/html5shiv.js"></script>
+	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
+	<![endif]-->
+</head>
+    <body>
+
+    <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Header -->
+    <header id="header" class="alt">
+        <a href="//localhost:1313/" class="logo"><img src="/img/logo.png" alt="" /></a>
+        <nav>
+            <a href="#menu">Menu</a>
+        </nav>
+    </header>
+
+<!-- Menu -->
+    <nav id="menu">
+        <ul class="links">
+            
+                <li><a href="//localhost:1313/">Main Page</a></li>
+            
+                <li><a href="//localhost:1313/education">Education</a></li>
+            
+                <li><a href="//localhost:1313/workingexperience">Working Experience</a></li>
+            
+                <li><a href="//localhost:1313/projects">Projects</a></li>
+            
+                <li><a href="//localhost:1313/certificates">Certificates</a></li>
+            
+                <li><a href="//localhost:1313/hobbies">Hobbies</a></li>
+            
+                <li><a href="//localhost:1313/skills">Skills</a></li>
+            
+
+        </ul>
+        <ul class="actions vertical">
+            
+            
+        </ul>
+    </nav>
+
+        <!-- Main -->
+            <div id="main" class="alt">
+
+                
+                    <section id="one">
+                        <div class="inner">
+                            <header class="major">
+                                <h1>Student Project: Puzzle Solver</h1>
+                            </header>
+                            
+
+							<div style="text-align: justify"><p>For this student project we developed a puzzle solver.
+The input were some pictures with several, different pieces of the puzzle.
+The single pieces were extracted from the picture.
+With information about the geometric and color characterstics of the endges the coherent pieces were calculated.
+With the calculated result the output of the puzzle solver was a 3D animation in which the random placed single puzzle pieces flew to their destination.
+Finally a solved puzzle is shown on the monitor.
+<br> To extract the single puzzle pieces, the geometric and color information was the task of my team.
+At first we used the Harris corner detection to find the corners of the pieces.
+To find the four corners and distinguish the different pieces the vectors between the corners were checked by the dot product to be close to zero. The results are four points for each puzzle, creating a square
+The geometric information was calculated by taking the middle of the vectors, moving along a line 90 degrees to the vector and check if there is puzzle fabric outside of the square, a lack of fabric within or none of them.
+By moving along the edge in equidistance parts and evaluate the color we gained the color information.
+We offered all these information in a XML document for further processing steps.</p>
+
+<div style="text-indent:20px;"><b>Trained Skills</b></div>
+<div style="text-indent:20px;">- Programm language C++</div>
+<div style="text-indent:20px;">- OpenCV for image processing</div>
+</div>
+
+
+							
+							
+							
+							
+                        </div>
+                    </section>
+            </div>
+            
+        <!-- Footer -->
+            
+                <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <ul class="icons">
+                
+            </ul>
+            <ul class="copyright">
+                <li>&copy; Dimitrij-M Holm</li>
+                
+            </ul>
+        </div>
+    </footer>
+
+            
+        </div>
+
+    <!-- Scripts -->
+        <!-- Scripts -->
+    <!-- jQuery -->
+    <script src="//localhost:1313/js/jquery.min.js"></script>
+    <script src="//localhost:1313/js/jquery.scrolly.min.js"></script>
+    <script src="//localhost:1313/js/jquery.scrollex.min.js"></script>
+    <script src="//localhost:1313/js/skel.min.js"></script>
+    <script src="//localhost:1313/js/util.js"></script>
+
+    
+
+    <!-- Main JS -->
+    <script src="//localhost:1313/js/main.js"></script>
+
+    
+
+    
+
+    <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</html>

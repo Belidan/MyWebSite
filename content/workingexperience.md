@@ -11,7 +11,7 @@ date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
 
- <div style="text-indent:20px;">03.2017 - now  &emsp;&emsp; &emsp; &nbsp;Working student, 8 h per week</div>
+ <div style="text-indent:20px;">03.2017 - 05.208  &emsp;&emsp; &emsp; &nbsp;Working student, 8 h per week</div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; @ Rohde & Schwarz GmbH & Co. KG, Munich, Germany</div>
 Employed as a software engineer for .Net (C#) WPF GUI developmen based on the Model-View-Viewmodel (MVVM) pattern. Use of Scrum and Test-driven development.
  
