@@ -10,9 +10,9 @@ categories:
 date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
- <div style="text-indent:20px;">10.2016 - 9.2018&nbsp; &emsp; &emsp; M.Sc. Applied Research in Engineering Science</div>
+ <div style="text-indent:20px;">10.2016 - 09.2018&nbsp; &emsp; &emsp; M.Sc. Applied Research in Engineering Science</div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Research field in robotics & autonomous systems</div>
- <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Current grade: 1.4</div>
+ <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; Final grade: 1.2</div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; @ University of Applied Science Munich, Germany</div>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &ensp; <b>Specialization courses completed:</b>
  <div style="text-indent:20px;">&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; - Deep learning/ artificial neural networks</div>
